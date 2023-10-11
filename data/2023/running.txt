@@ -1,2 +1,2 @@
-|begin|end|distance｜aBPM|mBPM
+begin|end|distance｜aBPM|mBPM
 2023-10-10 18:31:00|2023-10-10 19:09:00|6.74|150|183
